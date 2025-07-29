@@ -1,0 +1,1 @@
+This is a recipes website project from The Odin Project and the skills I'll learn are: links, headers, line breaks, images, styling text (italics, bold), ordered and unordered lists.

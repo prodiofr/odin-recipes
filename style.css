@@ -1,6 +1,8 @@
 body {
     margin: 0;
     font-family: sans-serif, Times, serif;
+    box-sizing: border-box;
+    padding: 25px;
 }
 
 .title {
@@ -10,7 +12,25 @@ body {
     margin-bottom: 60px;
 }
 
+li::marker {
+    color: rgb(156, 134, 10);
+}
+
 a {
     color: black;
+}
+
+.image-container {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.image {
+    width: 300px;
+    height: auto;
+}
+
+.sub-title {
+    font-size: 25px;
 }
 

@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: sans-serif, Times, serif;
+}
+
+.title {
+    color: rgb(156, 134, 10);
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 60px;
+}
+
+a {
+    color: black;
+}
+
